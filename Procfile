@@ -1,1 +1,1 @@
-web: gunicorn latestproject.wsgi --log-file -
+web:gunicorn latestproject.wsgi --log-file -
